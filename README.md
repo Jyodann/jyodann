@@ -57,7 +57,7 @@ Uses:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-<br>
+
 
 ## **NijiGuessSaki 🎶🎵**
 
@@ -72,7 +72,6 @@ Uses:
 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-<br>
 
 ## **Wacky Dice Shooter! 🎲**
 
@@ -96,13 +95,12 @@ My primary language is **English** and my secondary is **Chinese**. I am current
 
 Other than **Japanese**, I would also like to learn **Korean**, **Cantonese** and **Malay**.
 
-<br>
 
 ## 😊 **Content Creation**
 
 I like to Stream games that I play on Twitch and make Youtube videos when I have the time. I am currently in the midst of setting up many of the things required, so I do not have much content yet. I love the idea of sharing the things you learnt or the experiences you have with others so they can also appreciate it as well. 
 
-<br>
+
 
 ## 🎮 **Gaming**
 
