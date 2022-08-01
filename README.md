@@ -89,7 +89,7 @@ Uses:
 # 🦋 Interests
 Though my main interest is programming, here are some of my other interests:
 
-## 📜 **Language & Cultures**
+## 📜 **Language & Culture**
 
 My primary language is **English** and my secondary is **Chinese**. I am currently trying to pick up **Japanese** through using Genki and Anki. I find that learning a new language unlocks a whole new perspective towards looking at life. It is also through this way that you get to appreciate many different cultures and their way of life. I love watching videos, particularly from [Asian Boss](https://www.youtube.com/channel/UC2-_WWPT_124iN6jiym4fOw), which covers perspectives and news from various Asian countries.
 
@@ -98,15 +98,15 @@ Other than **Japanese**, I would also like to learn **Korean**, **Cantonese** an
 
 ## 😊 **Content Creation**
 
-I like to Stream games that I play on Twitch and make Youtube videos when I have the time. I am currently in the midst of setting up many of the things required, so I do not have much content yet. I love the idea of sharing the things you learnt or the experiences you have with others so they can also appreciate it as well. 
+I like play to Stream games that I play on Twitch and make Youtube videos when I have the time. I am currently in the midst of setting up many of the things required, so I do not have much content yet. I love the idea of sharing the things you learnt or the experiences you have with others so they can also appreciate it as well. 
 
 
 
 ## 🎮 **Gaming**
 
-You probably already saw this coming from a mile away. Although not strictly necessary, being a game developer means you play many games. I always joke that it is part of "studying" for Game Development. I don't really tie myself down to a specific genre, and like trying many different games just to understand why players like them. Here are some of my favourites:
+You probably already saw this coming from a mile away. Although not strictly necessary, being a game developer means you play many games. I always joke that it is part of "studying" for Game Development. I don't really like to tie myself down to a specific genre, so I play many different games just to figure out why people like them. Here are some of my favourites:
 
-- Rhythm: [Taiko no Tatsujin!](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin), [Chunithum](https://chunithm.sega.com/) and [Hatsune Miku: Project DIVA](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA). 
+- Rhythm: [Taiko no Tatsujin!](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin), [Chunithm](https://chunithm.sega.com/) and [Hatsune Miku: Project DIVA](https://en.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA). 
 - Platformers: [Super Mario Galaxy](https://en.wikipedia.org/wiki/Super_Mario_Galaxy) and [Super Mario Odyssey](https://en.wikipedia.org/wiki/Super_Mario_Odyssey)
 - Shooters: [Apex Legends](https://www.ea.com/en-gb/games/apex-legends)
 - Strategy/RPG: [Persona 5](https://en.wikipedia.org/wiki/Persona_5), [Fire Emblem: Three Houses](https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses)
