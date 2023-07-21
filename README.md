@@ -1,20 +1,26 @@
 <h3 align=center>Hello there! I'm <b>Jordan!</b></h3>
 
 <p align=center>
-sometimes i write software, sometimes i sleep
+sometimes i write software, sometimes i sleep, sometimes i write software in my sleep
 </p>
 
 <details align=center>
     <summary>about me</summary>
     
-    hello! I'm Jordan Khong. (≚ᄌ≚) ƶ Ƶ 
+    hello! I'm Jordan Khong  (≚ᄌ≚) ƶ Ƶ 
 
-    i write software, games and stream on twitch sometimes. enjoy your stay here!
-<img src='https://github-readme-stats.vercel.app/api?username=jyodann&theme=dark'>
-   
+    i graduated with a game design and development diploma (old name) from Temasek Polytechnic. 
+    
+    Now, I like to spend my time tinkering with various technologies and languages. 
+    
+    Unity, Android, Blazor and Jyputer notebooks are some of the things i play with
+
+    C#, Python, Kotlin and Javascript are some of the languages i write code in.
+
+    This place is where i store all these discoveries.
 </details>
 
-<br>
+
 <details align=center>
     <summary>see some of my work</summary>
 
@@ -44,7 +50,7 @@ A research project examining game design for the Simulation Genre. Comes with a 
 <br>
 <a href="https://jyodann.github.io/Game-Dev-Diaries/">Find it here</a>  
 </p>
-
+<img src='https://github-readme-stats.vercel.app/api?username=jyodann&theme=dark'>
 </details>
 <br>
 
