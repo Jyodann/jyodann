@@ -52,7 +52,7 @@ A research project examining game design for the Simulation Genre. Comes with a 
 </p>
 <img src='https://github-readme-stats.vercel.app/api?username=jyodann&theme=dark'>
 </details>
-<br>
+
 
 <details align=center>
     <summary>my links</summary>
